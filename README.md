@@ -1,6 +1,4 @@
-<p align="left">
-  <img src="./banner-sasuke-v2.png" alt="Felipe Iazzette — Sasuke, back-end e front-end" width="600">
-</p>
+![Felipe Iazzette — Back-end e Front-end](./banner-sasuke-v2.png)
 
 <p align="left">
   <picture>
@@ -12,7 +10,7 @@
 <p align="left">
   <picture>
     <source media="(max-width: 600px)" srcset="./perfil-sobre-mobile.svg">
-  <img src="./perfil-sobre.svg" alt="Sobre mim" width="680">
+    <img src="./perfil-sobre.svg" alt="Sobre mim" width="680">
   </picture>
 </p>
 
@@ -44,7 +42,13 @@ Desenvolvimento web, APIs, automação, robótica e IA aplicada.
 ---
 
 <p>
-  <a href="https://www.linkedin.com/in/felipe-goncalez-0644502b5/"><img src="./perfil-linkedin.svg" alt="LinkedIn" width="210"></a>
-  <a href="mailto:felipe.igoncalez@gmail.com"><img src="./perfil-email.svg" alt="E-mail" width="210"></a>
-  <a href="https://www.instagram.com/fe_iazzette/"><img src="./perfil-instagram.svg" alt="Instagram" width="210"></a>
+  <a href="https://www.linkedin.com/in/felipe-goncalez-0644502b5/">
+    <img src="./perfil-linkedin.svg" alt="LinkedIn" width="210">
+  </a>
+  <a href="mailto:felipe.igoncalez@gmail.com">
+    <img src="./perfil-email.svg" alt="E-mail" width="210">
+  </a>
+  <a href="https://www.instagram.com/fe_iazzette/">
+    <img src="./perfil-instagram.svg" alt="Instagram" width="210">
+  </a>
 </p>
