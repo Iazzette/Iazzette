@@ -1,35 +1,45 @@
-<p align="center">
-  <img src="./banner-sasuke.png.png" alt="Felipe Iazzette — Sasuke, back-end e front-end" width="680">
+<p align="left">
+  <img src="./banner-sasuke-v2.png" alt="Felipe Iazzette — Sasuke, back-end e front-end" width="600">
 </p>
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./perfil-nome-mobile.svg">
-  <img src="./perfil-nome.svg" alt="Felipe Iazzette — Brasil e Itália" width="680">
-</picture>
+<p align="left">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./perfil-nome-mobile-v2.svg">
+    <img src="./perfil-nome-v2.svg" alt="Felipe Iazzette — Brasil e Itália" width="680">
+  </picture>
+</p>
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./perfil-sobre-mobile.svg">
-<img src="./perfil-sobre.svg" alt="Sobre mim" width="680">
-</picture>
+<p align="left">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./perfil-sobre-mobile.svg">
+  <img src="./perfil-sobre.svg" alt="Sobre mim" width="680">
+  </picture>
+</p>
 
 Técnico em **Informática pelo Senac**.  
 Estudante de **Engenharia de Software — 2º semestre**.  
 Desenvolvimento web, APIs, automação, robótica e IA aplicada.
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./perfil-tecnologias-mobile.svg">
-  <img src="./perfil-tecnologias.svg" alt="Tecnologias: JavaScript, TypeScript, React, Node.js, Python, MySQL, HTML, CSS, C++, Java, SQLite e Ollama" width="680">
-</picture>
+<p align="left">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./perfil-tecnologias-mobile.svg">
+    <img src="./perfil-tecnologias.svg" alt="Tecnologias: JavaScript, TypeScript, React, Node.js, Python, MySQL, HTML, CSS, C++, Java, SQLite e Ollama" width="680">
+  </picture>
+</p>
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./perfil-foco-mobile.svg">
-  <img src="./perfil-foco.svg" alt="Em foco: back-end e front-end; APIs, bancos de dados e automação; robótica e inteligência artificial" width="680">
-</picture>
+<p align="left">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./perfil-foco-mobile.svg">
+    <img src="./perfil-foco.svg" alt="Em foco: back-end e front-end; APIs, bancos de dados e automação; robótica e inteligência artificial" width="680">
+  </picture>
+</p>
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./perfil-idiomas-mobile.svg">
-  <img src="./perfil-idiomas.svg" alt="Português: nativo. Inglês e Espanhol: B2, intermediário avançado" width="680">
-</picture>
+<p align="left">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./perfil-idiomas-mobile.svg">
+    <img src="./perfil-idiomas.svg" alt="Português: nativo. Inglês e Espanhol: B2, intermediário avançado" width="680">
+  </picture>
+</p>
 
 ---
 
