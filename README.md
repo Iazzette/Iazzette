@@ -1,4 +1,6 @@
-![Felipe Iazzette — Back-end e Front-end](./banner-sasuke-v2.png)
+<p align="center">
+  <img src="./banner-felipe.png" alt="Felipe Iazzette — Desenvolvimento Back-end e Front-end" width="100%">
+</p>
 
 <p align="left">
   <picture>
@@ -35,14 +37,14 @@ Desenvolvimento web, APIs, automação, robótica e IA aplicada.
 <p align="left">
   <picture>
     <source media="(max-width: 600px)" srcset="./perfil-idiomas-mobile.svg">
-    <img src="./perfil-idiomas.svg" alt="Português: nativo. Inglês e Espanhol: B2, intermediário avançado" width="680">
+    <img src="./perfil-idiomas.svg" alt="Português: nativo. Inglês e espanhol: B2, intermediário avançado" width="680">
   </picture>
 </p>
 
 ---
 
 <p>
-  <a href="https://www.linkedin.com/in/felipe-goncalez-0644502b5/">
+  <a href="https://www.linkedin.com/in/felipe-iazzette-0644502b5/">
     <img src="./perfil-linkedin.svg" alt="LinkedIn" width="210">
   </a>
   <a href="mailto:felipe.igoncalez@gmail.com">
